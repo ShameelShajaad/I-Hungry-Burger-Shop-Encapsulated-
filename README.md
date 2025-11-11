@@ -7,7 +7,7 @@
 ---
 
 ## 🧾 Description
-**A Java console-based burger shop order system** developed for the Programming Fundamentals module at ICET Institute.  
+**A Java console based burger shop order system** developed for the Object Oriented Programming module at ICET Institute.  
 
 This system uses **encapsulation** to manage burger orders and customer details safely:
 
